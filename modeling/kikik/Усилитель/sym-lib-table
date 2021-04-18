@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Усилитель-rescue)(type Legacy)(uri ${KIPRJMOD}/Усилитель-rescue.lib)(options "")(descr ""))
+  (lib (name irfz40)(type Legacy)(uri D:/modeling/kikik/Усилитель/libraries/irfz40/2021-04-18_00-50-29/2021-04-18_00-50-29.lib)(options "")(descr ""))
+)
